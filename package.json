@@ -1,0 +1,14 @@
+{
+  "name": "sachi",
+  "version": "1.0.0",
+  "description": "this provide a class for searching anything by text.",
+  "main": "js/sachi.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "tikubonn",
+  "license": "MIT"
+}
